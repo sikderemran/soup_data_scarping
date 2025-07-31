@@ -36,7 +36,7 @@ It fetches table data like Name, Price, Market Cap, and other fields every 10 mi
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/yahoo-crypto-scraper.git
+git clone https://github.com/sikderemran/soup_data_scarping.git
 cd soup_data_scarping
 pip install requests beautifulsoup4
 python soup_data_scarping.py
